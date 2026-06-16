@@ -1,1 +1,1 @@
-Personal Project Django_user_sys
+一个 django 练习项目
